@@ -1,0 +1,27 @@
+1.Crear el webapi , con la carpeta designada
+
+donent new webapi -f 6.0
+
+donent build
+
+2. Crear la carpetas MODELS,CONTROLLERS,SERVICES
+
+mkdir Models
+
+crear el modelo que se realizara el api
+
+3. Crear el servicio.cs
+Ejemplo:
+
+NameService.cs
+
+4. Crear el controlador
+Ejemplo
+NameController.cs
+
+
+httprepl https://localhost:{PORT} 7060
+
+connect https://localhost:{PORT}
+
+ls
